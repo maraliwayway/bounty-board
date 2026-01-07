@@ -1,5 +1,5 @@
 # Bounty Board
-A beginner-friendly React app for creating and showcasing dynamic wanted posters inspired by classic bounty boards.
+Beginner-friendly React app for creating and showcasing dynamic wanted posters inspired by classic bounty boards.
 
 ## Problem Story
 Imagine you are a web developer in a Wild West town where the sheriff needs help tracking down some bad guys. Instead of hand-drawing wanted posters, the sheriff wants a quick and fun way to create them and post them online for the whole town to see.
@@ -21,6 +21,11 @@ As a tech student looking to earn some extra cash, your goal is to build a React
 - Tailwind CSS
 
 ## How to Run
+
+## Resources
+- [Skeleton Code](https://github.com/maraliwayway/skeleton-bounty-board)
+- [Workshop Slides](https://docs.google.com/presentation/d/10oNgtQr5WZ5_2uW3rFklTP91OcTb4jYo7IkEvaQZsH4/edit?usp=sharing)
+- Visit Bounty Board 
 
 ## Credits
 Thank you SFU Surge for inviting me to create this workshop at JourneyHacks 2026! The cowboy theme was very fun to work with.
