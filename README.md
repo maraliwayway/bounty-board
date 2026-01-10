@@ -1,31 +1,16 @@
-# Bounty Board
-Beginner-friendly React app for creating and showcasing dynamic wanted posters inspired by classic bounty boards.
+# React + Vite
 
-## Problem Story
-Imagine you are a web developer in a Wild West town where the sheriff needs help tracking down some bad guys. Instead of hand-drawing wanted posters, the sheriff wants a quick and fun way to create them and post them online for the whole town to see.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-As a tech student looking to earn some extra cash, your goal is to build a React app that creates wanted posters instantly and displays them in a public gallery. If the app is easy to use and looks great, you land the job at $50 per hour (you will need this).
+Currently, two official plugins are available:
 
-## Features
-- Create custom Wild West wanted posters
-- Live poster preview while editing
-- Upload an image for each outlaw
-- Download posters as images
-- Save posters to a public gallery
-- Delete posters from the gallery
-- Gallery data persists using localStorage 
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Technologies Used
-- React
-- JavaScript
-- Tailwind CSS
+## React Compiler
 
-## How to Run
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Resources
-- [Skeleton Code](https://github.com/maraliwayway/skeleton-bounty-board)
-- [Workshop Slides](https://docs.google.com/presentation/d/10oNgtQr5WZ5_2uW3rFklTP91OcTb4jYo7IkEvaQZsH4/edit?usp=sharing)
-- Visit Bounty Board 
+## Expanding the ESLint configuration
 
-## Credits
-Thank you SFU Surge for inviting me to create this workshop at JourneyHacks 2026! The cowboy theme was very fun to work with.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
